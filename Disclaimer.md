@@ -1,0 +1,27 @@
+# Legal Disclaimer, Intellectual Property & Terms of Use
+
+**Last Updated:** October 2026  
+**Copyright Holder & Creator:** Ishaan Humaney  
+
+### 1. Exclusive Personal Nature of the Project
+This Birthday Greeting Web application (the "Application") is a strictly private, personalized, and bespoke creation designed and developed by Ishaan Humaney exclusively for a specific individual close to the creator. It is an intimate, closed-circle greeting intended solely for the eyes and interaction of the designated recipient. It is neither designed nor licensed for general public consumption, commercial deployment, or open-source usage.
+
+### 2. Intellectual Property (IP) Protection
+All intellectual property rights pertaining to this Application—including but not limited to the source code (`index.html`, `script.js`, `style.css`), visual design elements, mobile-first structural layout, custom text dialogues, interactive mechanics (such as the evasive "Never" button logic)[cite: 1, 2], and associated multimedia assets (`Bg.jpg`[cite: 4], audio files)—remain the sole, exclusive, and unalienable property of the creator, **Ishaan Humaney**. 
+
+The codebase and assets are fully protected under national and international copyright laws, trade secret legislation, and intellectual property treaties. Unauthorized copying, downloading, mirroring, reverse engineering, distribution, or derivative adaptation of this repository or any portion thereof is strictly prohibited.
+
+### 3. Strict Prohibition of Public Defamation, Memes, and Unauthorized Misuse
+Given the private, personal, and sensitive nature of this project:
+* **No Public Redistribution or Satire:** Any form of unauthorized public broadcasting, uploading to public social media platforms, public sharing, screen-recording for viral distribution, creation of memes, satirical distortion, parody, or public mocking of this Application, its contents, or its intended recipient is **strictly prohibited**.
+* **Protection Against Defamation:** Any unauthorized extraction, public exposure, or malicious misinterpretation of the personal context, code, or messages contained herein to cause public embarrassment, harassment, or defamation will be treated as a severe violation of privacy and copyright law.
+* **Legal Prosecution Warning:** **ANY VIOLATION, UNAUTHORIZED EXPOSURE, DEFAMATION, OR INTELLECTUAL PROPERTY INFRINGEMENT WILL LEAD TO IMMEDIATE, AGGRESSIVE LEGAL PROSECUTION.** The copyright holder reserves the full right to pursue civil damages, injunctive relief, and criminal penalties to the maximum extent permitted under applicable law against any individual or entity that misuses this repository.
+
+### 4. Limitation of Liability
+To the maximum extent permitted by applicable law, the creator and copyright holder (**Ishaan Humaney**) shall bear zero liability for any direct, indirect, incidental, or consequential consequences arising from any unauthorized breach, third-party scraping, or malicious public dissemination of this private repository.
+
+### 5. Official Contact & Legal Inquiries
+For formal permissions, legal notices, or authorized communications regarding this repository:
+* **Creator / Copyright Holder:** Ishaan Humaney
+* **Email:** ishaanhumaney@outlook.com
+* **LinkedIn:** [Ishaan Humaney LinkedIn](https://www.linkedin.com/in/ishaan-humaney-3583a6418)
